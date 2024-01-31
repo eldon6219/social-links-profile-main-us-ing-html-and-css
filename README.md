@@ -46,3 +46,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor (https://www.frontendmentor.io/profile/eldon6219)
+- linked in - (https://www.linkedin.com/in/m-eldon-96b195229/)
